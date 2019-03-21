@@ -5,3 +5,13 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+
+
+2.times do
+  for i in (1..13) do
+    Card.create(number:i, color: "#E41414")
+    Card.create(number:i, color: "#FF8C00")
+    Card.create(number:i, color: "#0000FF")
+    Card.create(number:i, color: "#000000")
+  end
+end
