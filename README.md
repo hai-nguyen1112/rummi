@@ -1,24 +1,15 @@
-# README
+# Readme
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* Application Name: Rummi
 
-Things you may want to cover:
+* Rummi is a streamlined single-player adaptation of the popular game, Rummikub
 
-* Ruby version
+* Languages used: Ruby on Rails for the backend, JavaScript and React for the frontend
 
-* System dependencies
+* To play this game:
+  - Go to: rummi-h2.herokuapp.com
+  - Browser: Chrome or Firefox
 
-* Configuration
+* Note: please read the game instructions when opening the app before playing.
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Link to rummi frontend repo: ![rummi frontend](https://github.com/hai-nguyen1112/rummi_frontend)
